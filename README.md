@@ -1,4 +1,10 @@
 # arctic-training
+
+## Contributors
+ - Mike Sousa
+ - Someone else
+ - Someone else else
+ 
 Testing repository for the Arctic Data Training.
 
 * Apples
