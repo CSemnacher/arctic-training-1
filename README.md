@@ -6,7 +6,7 @@
  - Someone else else
  
 
-Testing repository for the Arctic Data Training. :). Omg no way. 
+Testing repository for the Arctic Data Training. :). Omg no way. WOW another change
 
 
 * Apples
