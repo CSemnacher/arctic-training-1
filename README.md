@@ -16,3 +16,5 @@ Testing repository for the Arctic Data Training. :). Omg no way. WOW another cha
 Making one more change to the readme file.
 
 And the dragon cried jelly bean tears
+
+this dragon sucks and I hate it
