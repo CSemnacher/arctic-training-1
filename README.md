@@ -5,7 +5,9 @@
  - Someone else
  - Someone else else
  
-Testing repository for the Arctic Data Training. Omg no way. 
+
+Testing repository for the Arctic Data Training. :). Omg no way. 
+
 
 * Apples
 * Oranges
