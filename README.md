@@ -1,3 +1,3 @@
 # arctic-training
-Tetsing repository for the Arctic Fata Training.
+Testing repository for the Arctic Data Training.
 
